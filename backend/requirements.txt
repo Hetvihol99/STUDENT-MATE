@@ -1,0 +1,2 @@
+# Exact, dependency-complete versions verified in the local environment.
+-r requirements.lock
