@@ -205,8 +205,8 @@ Upload your course materials (PDFs, videos, YouTube links), ask an AI tutor ques
 |------|------|
 | 👨‍💻 **Het Vihol** | Full-Stack Developer |
 | 👨‍💻 **Mohit** | Backend Developer |
-| 👩‍💻 **Rutva** | Frontend Developer & Project Lead |
-| 👨‍💻 **Dhruv** | AI & Integration |
+| 👩‍💻 **Rutva** | Frontend Developer |
+| 👨‍💻 **Dhruv** | AI & Integration & Project Lead |
 
 ---
 
