@@ -22,7 +22,7 @@ Upload your course materials (PDFs, videos, YouTube links), ask an AI tutor ques
 
 ## ✨ Key Features
 
-| Feature | Description |
+| Feature | Description |  
 |---------|-------------|
 | 📚 **Smart Library** | Upload PDFs, TXT, Markdown, MP4, MOV videos, or YouTube links |
 | 🤖 **AI Tutor** | Ask questions grounded in *your* uploaded material via Gemini |
