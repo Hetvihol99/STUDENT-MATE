@@ -3,6 +3,8 @@
 > A full-stack AI-powered study workspace — organize, learn, quiz, and revise smarter.
 > Built with ❤️ by Team Snippet
 
+    
+
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Google-Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
