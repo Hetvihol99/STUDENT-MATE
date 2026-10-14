@@ -18,7 +18,7 @@
 
 Upload your course materials (PDFs, videos, YouTube links), ask an AI tutor questions backed by your own content, auto-generate quizzes, track your mastery, and review flashcards — all in a clean, minimal interface built for deep focus.
 
----
+---  
 
 ## ✨ Key Features
 
